@@ -4,7 +4,7 @@
 # |____| |    \   ____>  | ___|    ____| <____   \_/	ORBISDEV Open Source Project.
 #------------------------------------------------------------------------------------
 # Copyright 2010-2020, orbisdev - http://orbisdev.github.io
-# Licenced under XXXXXXXX
+# Licenced under MIT License
 # Review README & LICENSE files for further details.
 */
 
